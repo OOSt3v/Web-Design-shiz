@@ -33,12 +33,12 @@ nav ul li a
 nav ul li:hover
 {
     /*Darker Grey*/
-    background-color: #8E8E8E;
+    background-color: teal;
 }
 
 header
 {
-    background-image: url(../images/header_image.jpg);
+    background-image: url(../images/kayaking%20back.jpg);
     background-repeat: no-repeat;
     background-size: cover;
     height: 200px;
